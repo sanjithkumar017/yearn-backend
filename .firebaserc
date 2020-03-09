@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "yearn-334af"
+    "default": "yearn-334af",
+    "development": "yearn-334af"
   }
 }
